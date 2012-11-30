@@ -1,0 +1,62 @@
+/* app.css */
+
+body {
+  background-image: url('/assets/img/background.png');
+}
+
+body a {
+  color: #008ed4;
+}
+
+body a:hover {
+  text-decoration: none;
+}
+
+hr {
+  border: 0;
+  border-top: 1px solid #c9c9c9;
+  border-bottom: 1px solid #fcfcfc;
+}
+
+/* Custom container */
+.container-narrow {
+  margin: 0 auto;
+  max-width: 700px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+/* Main marketing message and sign up button */
+.jumbotron {
+  margin: 0;
+  text-align: center;
+}
+.jumbotron h1 {
+  font-size: 72px;
+  line-height: 1;
+}
+.jumbotron .btn {
+  font-size: 21px;
+  padding: 14px 24px;
+}
+
+.social-primary {
+  margin-top: 50px;
+}
+
+.social-secondary {
+  margin-top: 30px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.service {
+  font-size: 72px;
+  font-weight: bold;
+  font-family: inherit;
+  line-height: 20px;
+  color: inherit;
+  text-rendering: optimizelegibility;
+}
