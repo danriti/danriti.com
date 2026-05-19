@@ -5,5 +5,7 @@ My homepage.
 ## Deployment
 
 ```bash
-$ s3_website push
+$ aws login
+$ aws s3 sync ./public s3://danriti.com/ --dryrun
+$ aws s3 sync ./public s3://danriti.com/
 ```
