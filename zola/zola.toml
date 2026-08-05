@@ -1,0 +1,57 @@
+# The URL the site will be built for
+base_url = "https://danriti.com"
+title = "danriti.com"
+description = "I live for the funk, I die for the funk"
+
+theme = "tapestry"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+# When set to "true", a feed is automatically generated.
+generate_feeds = true
+feed_filenames = ["rss.xml"]
+
+# The default author for pages
+author = "Dan Riti"
+
+taxonomies = [
+    { name = "tags", feed = true },
+    { name = "categories", feed = true, paginate_by = 5 },
+]
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = true
+
+# [markdown]
+#
+# [markdown.highlighting]
+
+[extra]
+header_title = "danriti.com"
+
+copyright = "© $YEAR $AUTHOR :: Powered by [Zola](https://www.getzola.org) :: [Tapestry](https://github.com/anirbanbasu/tapestry) theme."
+
+presentation_style = "creative"
+presentation_variant = "bauhaus-studio"
+
+main_menu = [
+    { name = "posts", url = "posts", trailing_slash = true },
+    { name = "mixes", url = "mixes", trailing_slash = true},
+    { name = "about", url = "about", trailing_slash = false },
+    { name = "tags", url = "tags", trailing_slash = true },
+    #{ name = "repo github", url = "https://github.com/danriti/danriti.com", new_tab = true },
+]
+
+socials = [
+    { name = "email", url = "mailto:dmriti@gmail.com" },
+    { name = "github", url = "https://github.com/danriti" },
+]
+
+feed_icon = "rss"
+
+[extra.content_security_policy]
+enable = true
+allowed_domains = [
+    { directive = "frame-src", domains = ["'self'", "https://*.mixcloud.com", "https://*.youtube.com"] },
+]
