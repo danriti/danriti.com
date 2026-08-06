@@ -1,0 +1,3 @@
+[submodule "zola/themes/tapestry"]
+	path = zola/themes/tapestry
+	url = https://github.com/anirbanbasu/tapestry.git
