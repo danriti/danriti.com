@@ -4,8 +4,8 @@ date = 2026-08-04
 description = "Welcome to the real world."
 
 [taxonomies]
-tags = ["docs", "authoring", "markdown"]
-categories = ["docs"]
+tags = ["words"]
+categories = ["posts"]
 +++
 
 Its been a long time since I updated this website! I would like to use this space

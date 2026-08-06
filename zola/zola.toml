@@ -50,6 +50,10 @@ socials = [
 
 feed_icon = "rss"
 
+[extra.responsive_images]
+widths = [640, 784, 1280, 1920, 2560]
+fallback_width = 640
+
 [extra.content_security_policy]
 enable = true
 allowed_domains = [

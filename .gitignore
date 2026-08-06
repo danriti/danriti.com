@@ -1,2 +1,3 @@
 *.mp3
 zola/public/*
+zola/static/processed_images/*
