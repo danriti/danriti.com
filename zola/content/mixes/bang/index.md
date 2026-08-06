@@ -12,6 +12,8 @@ sidebar = false
 
 ![bang](bang-large.jpg)
 
+<!-- more -->
+
 ## tracklist
 
 1. Cryptonites - Can't Give You Up (Kill The Noise Remix)

@@ -12,6 +12,8 @@ sidebar = false
 
 ![on & on](on-and-on.png)
 
+<!-- more -->
+
 ## tracklist
 
 1. Para - Aurora (Original Mix)

@@ -12,6 +12,8 @@ sidebar = false
 
 ![here, my dear](here-my-dear.jpg)
 
+<!-- more -->
+
 ## tracklist
 
 1. Rodriguez - I Think Of You

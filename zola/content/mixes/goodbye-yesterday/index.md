@@ -12,6 +12,8 @@ sidebar = false
 
 ![goodbye yesterday](goodbye_yesterday_med.jpg)
 
+<!-- more -->
+
 ## tracklist
 
 1. The Postal Service - Nothing Better (Styrofoam Remix)

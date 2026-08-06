@@ -12,6 +12,8 @@ sidebar = false
 
 ![t minus 23](tminus.jpg)
 
+<!-- more -->
+
 ## tracklist
 
 1. Mylo - Sunworshipper

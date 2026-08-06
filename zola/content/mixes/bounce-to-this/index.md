@@ -12,6 +12,8 @@ sidebar = false
 
 ![bounce to this](bouncetothis-large.jpg)
 
+<!-- more -->
+
 ## tracklist
 
 1. Intro

@@ -12,6 +12,8 @@ sidebar = false
 
 ![just let go](just_let_go_med.jpg)
 
+<!-- more -->
+
 ## tracklist
 
 1. Fischerspooner - Just Let Go (Thin White Duke Remix)

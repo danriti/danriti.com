@@ -12,6 +12,8 @@ sidebar = false
 
 ![focus](focus_large.jpg)
 
+<!-- more -->
+
 ## tracklist
 
 1. Aft Voc vs Daft Punk - On Da Dancefloor

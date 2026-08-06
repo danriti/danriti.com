@@ -12,6 +12,8 @@ sidebar = false
 
 ![binary podcast 001](binary_001.png)
 
+<!-- more -->
+
 ## tracklist
 
 1. Morris - Rashida Jones

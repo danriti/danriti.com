@@ -12,6 +12,8 @@ sidebar = false
 
 ![DGAF Four Year Anniversary](dgaf-four-year-anniversary.jpg)
 
+<!-- more -->
+
 ## tracklist
 
 * [dgaf-four-year.txt](dgaf-four-year.txt)
@@ -27,7 +29,6 @@ In addition to the party, I made y’all a mix that contains a collection of bot
 A big shout out to the Colosseum and everyone who’s been a part of DGAF of the years. It’s been an honor to play my part in the Providence party scene for the last 7 years, so here’s to many more years of good dance music in Providence!
 
 I had way too much fun making this mix, so I hope y’all enjoy it. Feel free to leave some love if you’re feeling it~
-
 
 * **title**: dan riti - dgaf four year
 * **beats**: bass music

@@ -12,6 +12,8 @@ sidebar = false
 
 ![flipside](flipside.jpg)
 
+<!-- more -->
+
 ## tracklist
 
 1. Daft Punk - Too Long
