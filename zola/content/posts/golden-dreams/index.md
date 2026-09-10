@@ -10,7 +10,7 @@ categories = ["posts"]
 
 {{ responsive_image(src="golden-dreams.jpg", alt="Golden Dreams") }}
 
-finally got on this climb and it did not disappoint.
+did not get the onsight, but was able to figure out all the moves with a few hangs. amazing finger locks + stemming at the grade!
 
 "Golden Dreams" @ Peterskill
 
